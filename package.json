@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-array-like-object",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Test if a value is an array-like object.",
   "license": "Apache-2.0",
   "author": {
@@ -37,8 +37,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-array-max-array-length": "^0.1.1",
-    "@stdlib/math-base-assert-is-integer": "^0.1.1"
+    "@stdlib/constants-array-max-array-length": "^0.2.0",
+    "@stdlib/math-base-assert-is-integer": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.1.1",
